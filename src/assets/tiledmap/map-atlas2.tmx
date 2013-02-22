@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="tiles" tilewidth="64" tileheight="64">
+  <image source="Genetica-tiles.png" trans="ff00ff" width="640" height="256"/>
+  <tile id="0">
+   <properties>
+    <property name="name" value="images_01"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="name" value="images_02"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="name" value="images_03"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="name" value="images_04"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="name" value="images_05"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="name" value="images_06"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="name" value="images_07"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="name" value="images_08"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="name" value="images_09"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="name" value="images_10"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="name" value="images_11"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="name" value="images_12"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="name" value="images_13"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="name" value="images_14"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="name" value="images_15"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="name" value="images_16"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="name" value="images_17"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="name" value="images_18"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="name" value="images_19"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="name" value="images_20"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="name" value="images_21"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="name" value="images_22"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="name" value="images_23"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="name" value="images_24"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="name" value="images_25"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="name" value="images_26"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="name" value="images_27"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="name" value="images_28"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="name" value="images_29"/>
+   </properties>
+  </tile>
+  <tile id="29">
+   <properties>
+    <property name="name" value="images_30"/>
+   </properties>
+  </tile>
+  <tile id="30">
+   <properties>
+    <property name="name" value="images_31"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="name" value="images_32"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="name" value="images_33"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="name" value="images_34"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="name" value="images_35"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="name" value="images_36"/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="name" value="images_37"/>
+   </properties>
+  </tile>
+  <tile id="37">
+   <properties>
+    <property name="name" value="images_38"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="name" value="images_39"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="name" value="images_40"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="41" name="Genetica-tiles" tilewidth="64" tileheight="64">
+  <image source="Genetica-tiles.png" trans="ff00ff" width="640" height="256"/>
+ </tileset>
+ <layer name="background" width="50" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYmBgYBrFo3gUj+JRPGQw8yBwwygefBgAVNkD6g==
+  </data>
+ </layer>
+ <layer name="platform" width="50" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzVlEsKgDAMRLNy499WF4Kf+5/SFAwOEYpKJTrwSKGBZtqkRP/XaF1AIqEPB9Q25TwW+shUFBVMCXxRwUdjdHY4V97f09EHeG8Vk0OuB7BnRrKbkY7pmQFi+zD3qg/dW4F833P3yn9FKd5jIXsvMR96tmNzLl6w13Gt+zm1xEeqP3di5j3iOkT0Kt5Q2jfmeTrPObIyG3gxCHI=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="50" height="10">
+  <object type="citrus.objects.platformer.box2d.Platform" x="67" y="585" width="238" height="45"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="133" y="139" width="238" height="45"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="521" y="198" width="238" height="45">
+   <properties>
+    <property name="oneWay" value="true"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="383" y="518" width="188" height="40"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="581" y="390" width="368" height="43">
+   <properties>
+    <property name="oneWay" value="true"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1026" y="394" width="54" height="33"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1091" y="461" width="54" height="33"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1143" y="523" width="128" height="31"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="34" y="365" width="29" height="269"/>
+  <object name="bloque" type="citrus.objects.platformer.box2d.Platform" x="9" y="264" width="53" height="97"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="638" y="518" width="130" height="43"/>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1275" y="526" width="449" height="53">
+   <properties>
+    <property name="oneWay" value="true"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1919" y="265" width="1083" height="53">
+   <properties>
+    <property name="oneWay" value="true"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="1728" y="576" width="256" height="64">
+   <properties>
+    <property name="oneWay" value="true"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="2176" y="587" width="1003" height="55">
+   <properties>
+    <property name="oneWay" value="true"/>
+   </properties>
+  </object>
+  <object type="citrus.objects.platformer.box2d.Platform" x="3164" y="52" width="44" height="590"/>
+  <object type="citrus.objects.platformer.box2d.Hero" x="401" y="366" width="80" height="147"/>
+ </objectgroup>
+ <layer name="foreground" width="50" height="10">
+  <properties>
+   <property name="group" value="3"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzdk40KgCAMhBctq/d/4ZAK5HBrc1HiB+LPJt6pIzrZaAzWvwUY2IP7WYlNDbH5arX1kgXmUR9WJH2Yk2HoNe6c8u8nh65WJC9PHr/Ecn+Z2tv05EMD6yGqu6yPJIx7wusX6x+x/pk3kM5iZ85oHKQWAJ0=
+  </data>
+ </layer>
+</map>
